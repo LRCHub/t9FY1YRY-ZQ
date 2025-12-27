@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "LAST STARDUST",
+  "base_artist": "Aimer",
+  "createdAt": "2025-12-27T07:40:20.102509Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LAST STARDUST",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/01_LAST_STARDUST_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LAST STARDUST",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/02_LAST_STARDUST_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LAST STARDUST",
+      "artist": "Blood Stain Child",
+      "has_synced": false,
+      "path": "select/03_LAST_STARDUST_Blood_Stain_Child.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "LAST STARDUST (Live in BUDOKAN blanc et noir)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/04_LAST_STARDUST_(Live_in_BUDOKAN_blanc_et_noir)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LAST STARDUST",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/05_LAST_STARDUST_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Last Stardust (From \"Fate/Stay Night: Unlimited Blade Works\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/06_Last_Stardust_(From__Fate_Stay_Night__Unlimited_Blade_Works_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Last Stardust - Russian ver.",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/07_Last_Stardust_-_Russian_ver._Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LAST STARDUST",
+      "artist": "Aimer(エメ)",
+      "has_synced": true,
+      "path": "select/08_LAST_STARDUST_Aimer(エメ).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Aimer/DAWN/LAST STARDUST-Aimer",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/09_Aimer_DAWN_LAST_STARDUST-Aimer_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "LAST STARDUST",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/10_LAST_STARDUST_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Last Stardust",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/11_Last_Stardust_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Last Stardust (Instrumental)",
+      "artist": "Blood Stain Child",
+      "has_synced": false,
+      "path": "select/12_Last_Stardust_(Instrumental)_Blood_Stain_Child.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "LAST STARDUST",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/13_LAST_STARDUST_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Last Stardust",
+      "artist": "Sapphire",
+      "has_synced": true,
+      "path": "select/14_Last_Stardust_Sapphire.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Last Stardust (From \"Fate/StayNight: Unlimited Blade Works\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/15_Last_Stardust_(From__Fate_StayNight__Unlimited_Blade_Works_)_AmaLee.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LAST STARDUST",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_LAST_STARDUST_Aimer.txt"
+    }
+  ]
+}
